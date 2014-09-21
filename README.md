@@ -22,6 +22,9 @@ Thanks for the cool guys that help me to learn more things:
 - [@serg1ors](https://twitter.com/serg1ors)
 - And to all people that post in React Facebook Community
 
+### Demo
+Look the [example page](http://expalmer.github.io/group-chat-react-flux/)
+
 ### Contribute
 I need help to improvements, because together we learn more  :)
 
