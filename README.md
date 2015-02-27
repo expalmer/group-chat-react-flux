@@ -1,6 +1,6 @@
 # Group Chat - React Flux
 
- An application utilizing [React](http://facebook.github.io/react/) with the awesome [Flex](http://facebook.github.io/react/docs/flux-overview.html) architecture.
+ An application utilizing [React](http://facebook.github.io/react/) with the awesome [Flux](http://facebook.github.io/react/docs/flux-overview.html) architecture.
 
 # How to use ?
 
